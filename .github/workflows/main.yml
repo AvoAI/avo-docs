@@ -1,6 +1,6 @@
 # CI on Public User Manual - main branch -> docs.avo-ai.ro
 
-name: CI docs - docs.avo-ai.ro
+name: CI docs -> docs.avo-ai.ro
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
